@@ -1,0 +1,71 @@
+.maindiv {
+
+
+}
+
+.firstdiv{
+    background-color: tomato;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 10px solid orangered;
+    padding: 15px
+    
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+     text-decoration: none;
+}
+ li{
+     list-style: none;
+     color: white;
+     padding-right: 20px;
+     text-decoration: none;
+ }
+ 
+    button{
+        background-color: red;
+        color: white;
+    }
+.form{
+    background-color: rgb(31, 40, 41);
+    color: white;
+    display: flex;
+    justify-content: center;
+}   
+.bottom{
+    background-color: black;
+     display: flex;
+     justify-content: space-between;
+     
+}
+.boto {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    list-style: none;
+    text-decoration: none;
+}
+
+ .last {
+     display: flex;
+     background-color: rgb(15, 14, 14);
+     
+ }
+ .fa-brands {
+     color: blue;
+     font-size: 50px;
+     
+ }
+ .fa-brands:hover {
+      color: orangered;
+      font-size: 50px;
+ }
+ .social {
+     background-color: black;
+ }
+ span {
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-size: 45px;
+ }
+   
